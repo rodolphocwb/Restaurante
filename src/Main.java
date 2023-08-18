@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
-        listaFuncionarios();
+        //Basicamente um teste pode ignorar
+        listaFuncionarios();//falta coisa aqui
     }
 
 
