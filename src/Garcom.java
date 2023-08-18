@@ -4,6 +4,8 @@ public class Garcom extends Funcionario{
 
     }
 
+    //Criar metodo limparMesa();
+
     @Override
     public void despacharCliente() {
 
